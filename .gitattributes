@@ -1,0 +1,11 @@
+/Documentation export-ignore
+/app/etc/config.php export-ignore
+/app/etc/env.php export-ignore
+/pub/media/catalog export-ignore
+/pub/media/downloadable export-ignore
+/pub/media/import export-ignore
+/pub/media/tmp export-ignore
+/build export-ignore
+/db export-ignore
+/themesetup export-ignore
+/branches export-ignore
